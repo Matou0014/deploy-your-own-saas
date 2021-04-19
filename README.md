@@ -19,7 +19,8 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
-- [ProGram](https://sarthology.github.io/proGramCLI/) — self-hosted Instagram style gallery.
+- [PhotoPrism](https://photoprism.app/) — Personal photo management with Ai classification and lots of features [(GitHub)](https://github.com/photoprism/photoprism)
+- [Lychee](https://lychee.electerious.com/) — Upload, manage and share photos like from a native application [(GitHub)](https://github.com/electerious/Lychee)
 - [Photo-Stream](https://github.com/maxvoltar/photo-stream/) — super-simple, jekyll-based, self-hosted photo stream.
 - [Piwigo](https://piwigo.org/) — PHP image gallery. [(GitHub)](https://github.com/Piwigo)
 - [Pinry](https://docs.getpinry.com/) — your own Pinterest with boards and tags. [(GitHub)](https://github.com/pinry/pinry)
@@ -37,7 +38,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 
 ### 📝 Deploy your own `Notes`
 - [CodiMD](https://github.com/hackmdio/codimd) — realtime collaborative markdown notes.
-- [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://www.bowlerdesign.tech/posts/how-to-completely-self-host-standard-notes/)
+- [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 - [TinyList](https://tinylist.app/) — your own Google Keep. Simple and clean. [GitHub](https://github.com/baggachipz/tinylist)
 
 ### 🏷 Deploy your own `Bookmarks service`
@@ -45,6 +46,8 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Bookmarks](https://github.com/dyu/bookmarks) — self-hosted bookmarking app that can import bookmarks from delicious and chrome.
 - [xBrowserSync](https://www.xbrowsersync.org/) — secure and anonymous bookmarking server with browser plugins and mobile app. [(GitHub)](https://github.com/xbrowsersync)
 - [Nextcloud Bookmarks](https://apps.nextcloud.com/apps/bookmarks) — bookmark app for Nextcloud with browser plugins, mobile and desktop apps. [(GitHub)](https://github.com/nextcloud/bookmarks)
+- [LinkAce](https://www.linkace.org/) — bookmark archive with tags, lists and sharing features. [(GitHub)](https://github.com/Kovah/LinkAce)
+- [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
@@ -113,6 +116,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 
 ### 🔍 Deploy your own `Google search`
 - [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
+- [Whoogle](https://github.com/benbusby/whoogle-search) — Deploy your own search engine that privately uses Google results.
 
 ### 📦 Deploy your own `Cloud backup`
 - [Duplicity](http://duplicity.nongnu.org/) — backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.
@@ -130,6 +134,7 @@ with compression and encryption.
 - [FilePizza](https://github.com/kern/filepizza) — peer-to-peer file transfers with only browser.
 - [Lufi](https://github.com/ldidry/lufi) — convenient file sharing with E2E encryption.
 - [Linx](https://github.com/andreimarcu/linx-server) — simple file/code/media sharing website.
+- [XBackBone](https://xbackbone.app/) — PHP file manager that support the instant sharing tools like ShareX, uPic, etc [(GitHub)](https://github.com/SergiX44/XBackBone)
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
@@ -184,6 +189,7 @@ with compression and encryption.
 
 ### 🏠 Deploy your own `Smart home`
 - [Home Asisstant](https://www.home-assistant.io/) — home automation hub which can be deployed on Raspberry Pi [(GitHub)](https://github.com/home-assistant/core)
+- [OpenHAB](https://www.openhab.org/) — vendor-neutral,  hardware/protocol-agnostic home automation hub [(GitHub)](https://github.com/openhab)
 - [Home Bridge](https://homebridge.io/) — lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. [(GitHub)](https://github.com/homebridge/homebridge)
 
 ### 🌀 Deploy your own `IFTTT`
@@ -197,6 +203,9 @@ with compression and encryption.
 ### 🎙 Deploy your own `Twitch`
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) — a self-contained OBS → FTL → WebRTC live streaming server.
 
+### 📱 Deploy your own `App store` for servers
+- [Portainer](https://www.portainer.io/) — container management tool. It allows anyone to deploy and manage containers without the need to write code. [(GitHub)](https://github.com/portainer/portainer)
+- [Yacht](https://github.com/SelfhostedPro/Yacht) — a web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.
 ----
 
 Totally worth to check:
